@@ -8,4 +8,4 @@ You have the freedom to choose the preferred language
 # Idea
 The idea came from the Hacker Jeopardy at the 32c3
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gp_VlPUYxDU" frameborder="0" allowfullscreen></iframe>
+[![ScreenShot](http://img.youtube.com/vi/Gp_VlPUYxDU/0.jpg)](http://youtu.be/vt5fpE0bzSY)
